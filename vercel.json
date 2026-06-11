@@ -8,6 +8,7 @@
     { "source": "/singers",    "destination": "/index.html" },
     { "source": "/kpop",       "destination": "/index.html" },
     { "source": "/cinema",     "destination": "/index.html" },
+    { "source": "/journalists","destination": "/index.html" },
     { "source": "/(.*)",       "destination": "/index.html" }
   ]
 }
